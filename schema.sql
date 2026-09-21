@@ -1,3 +1,5 @@
+USE recipes;
+
 CREATE TABLE cuisines (
     cuisine_id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(255)
